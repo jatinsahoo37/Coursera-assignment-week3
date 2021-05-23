@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+#header-nav {
+    min-height: min-content;
+}
+
+.navbar-brand a{
+    font-size: 5em;
+}
+
+#nav-list {
+    padding: 5px 0;
+}
+
+#nav-list li:not(:last-of-type) {
+    border-bottom: 1px solid #e7e7e7;
+}
+
+.tall-section {
+    height: 300px;
+    background-color: lightgray;
+}
+
+#chicken {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+p {
+    font-size: 1.5em;
+}
