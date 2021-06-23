@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 
-#nav-list li {
+#nav-list > li {
     text-align: center;
 }
 
@@ -22,7 +22,7 @@ div section {
     background-color: #C3FF80;
 }
 
-.row h3 {
+#text > h3 {
     margin-bottom: 15px;
 }
 
